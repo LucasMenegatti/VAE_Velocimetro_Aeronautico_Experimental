@@ -6,4 +6,4 @@ O projeto se enquadra no extenso Universo dos instrumentos digitais microprocess
 
 O VAE foi projetado e construído numa parceira entre o Aeroclube de Araraquara e a UNICEP Centro Universitário Paulista, como objetivo de comprovar a viabilidade de realização de esforços conjuntos entre as Instituições de Ensino e os possíveis Utilizadores de Campo.
 
-![VAE](https://github.com/LucasMenegatti/VAE_Velocimetro_Aeronautico_Experimental/blob/main/DSC00140.JPG?raw=true)
+![VAE](https://github.com/LucasMenegatti/VAE_Velocimetro_Aeronautico_Experimental/blob/main/VAE-Montagem.jpeg?raw=true)
